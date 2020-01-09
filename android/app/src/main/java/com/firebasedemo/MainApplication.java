@@ -1,5 +1,5 @@
 package com.firebasedemo;
-
+import io.invertase.firebase.analytics.ReactNativeFirebaseAnalyticsPackage;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
