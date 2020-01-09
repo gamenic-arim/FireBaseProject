@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "507980023593",
+    "firebase_url": "https://fir-project-fecfe.firebaseio.com",
+    "project_id": "fir-project-fecfe",
+    "storage_bucket": "fir-project-fecfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507980023593:android:dd970a926e864ed2b3d938",
+        "android_client_info": {
+          "package_name": "com.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507980023593-2inmds9n81tfb8kbcdbhtj7inbina43b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgZ430m85SZ0Jj8DNnDzW93V4shWeVoBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507980023593-2inmds9n81tfb8kbcdbhtj7inbina43b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507980023593-1nbsim746p8l897ssb69j3edm27ojodb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FireBaseDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
